@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/techcompany-interface/static/css/main.2fb8d8fa.css",
+    "main.js": "/techcompany-interface/static/js/main.4e18d8ef.js",
+    "static/media/IntroImage.gif": "/techcompany-interface/static/media/IntroImage.bd12b63e260a3b7b9928.gif",
+    "static/media/ContactImage.gif": "/techcompany-interface/static/media/ContactImage.e45483f783058b8e85ea.gif",
+    "static/media/Adverting.gif": "/techcompany-interface/static/media/Adverting.eef91b20f81521bef9ff.gif",
+    "static/media/IT_Services..gif": "/techcompany-interface/static/media/IT_Services..aa06e53b194015188170.gif",
+    "static/media/helpservice.png": "/techcompany-interface/static/media/helpservice.400f683f8680cc617dae.png",
+    "static/media/customerservicesicon.png": "/techcompany-interface/static/media/customerservicesicon.961279a7b748b3f97ece.png",
+    "static/media/Staricon.png": "/techcompany-interface/static/media/Staricon.780356345387f2249523.png",
+    "index.html": "/techcompany-interface/index.html",
+    "main.2fb8d8fa.css.map": "/techcompany-interface/static/css/main.2fb8d8fa.css.map",
+    "main.4e18d8ef.js.map": "/techcompany-interface/static/js/main.4e18d8ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb8d8fa.css",
+    "static/js/main.4e18d8ef.js"
+  ]
+}
