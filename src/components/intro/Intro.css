@@ -1,0 +1,68 @@
+.Introcontainer{
+    height: calc(100vh - 50px);   
+    display: flex;
+    padding:20px;
+    
+}
+.IntroLeft{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Introinfo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.introButton{
+    padding:15px;
+    background-color: #302cff;
+    color:white;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    letter-spacing: 2px;
+    cursor: pointer;
+    margin: 20px;
+    
+}
+
+.introContact{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.phone{
+    color: #f0667d;
+    font-weight: bold;
+}
+
+.contacttext{
+    color: gray;
+     margin-top: 5px;
+}
+
+.Introright{
+    width: 50%;
+}
+
+.introtitle{
+    font-size: 60px;
+    width: 80%;
+    margin: 20px;
+}
+
+.introDesc{
+    width: 80%;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.Image{
+    width: 100%;
+}
